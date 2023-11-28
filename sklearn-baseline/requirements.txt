@@ -3,3 +3,4 @@ imblearn
 joblib
 pandas
 jsonlines
+beautifulsoup4
