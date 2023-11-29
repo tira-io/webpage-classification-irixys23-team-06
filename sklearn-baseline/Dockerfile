@@ -10,7 +10,7 @@ RUN pip3 install -r /requirements.txt \
 
 # Download the model file from Google Drive
 RUN mkdir /app \
-	&& gdown --id 1B1VqoItBMwRpU0Avuus7HzrNvfW-evur -O /app/sk_model8.pkl
+	&& gdown --id 1mr3B9RHGMjbsBkle-WSNuv2LA_3uyUso -O /app/sk_model9.pkl
 
 ENV PYTHONPATH=/app
 
